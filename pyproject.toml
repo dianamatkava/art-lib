@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "art-ascii"
+version = "0.1.0"
+description = ""
+authors = ["dianamatkava <dianamatkava@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+art = '^6.2'
+colorama = "^0.4.6"
+pillow = "^10.4.0"
+termcolor = "^2.4.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

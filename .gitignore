@@ -1,0 +1,4 @@
+venv
+art_ascii.egg-info
+__pycache__/
+.idea/

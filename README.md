@@ -1,5 +1,33 @@
-# art-lib
-Small script using ASCII package
+# Art-ASCII
+A small script that uses the ASCII package to convert images into ASCII art.
 
-In order to run script, create virtual environment and install requirements
-Then run python script.py, push absolute path to the image, and you will receive the result in ascii_image.txt
+<img src="./images/atr-ascii.gif" width="600"/>
+
+## Setup
+For Linux, macOS, and Windows:
+Create a Virtual Environment:
+
+``` bash
+poetry shell
+```
+
+### Activate the Virtual Environment:
+Linux/macOS/Windows:
+```bash
+poetry shell
+```
+
+Install Dependencies:
+
+```bash
+poetry install
+```
+
+## Run the Script:
+
+```bash
+python script.py
+```
+
+When prompted, enter the absolute path to the image you want to convert. The result will be saved in ascii_image.txt.
+
