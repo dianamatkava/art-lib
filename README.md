@@ -1,7 +1,7 @@
 # Art-ASCII
 A small script that uses the ASCII package to convert images into ASCII art.
 
-<img src="./images/atr-ascii.gif" width="600"/>
+<img src="./images/atr-ascii.gif"/>
 
 ## Setup
 For Linux, macOS, and Windows:
