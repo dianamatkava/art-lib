@@ -5,15 +5,9 @@ A small script that uses the ASCII package to convert images into ASCII art.
 
 ## Setup
 For Linux, macOS, and Windows:
-Create a Virtual Environment:
-
-``` bash
-poetry shell
-```
-
-### Activate the Virtual Environment:
+Create and Activate the Virtual Environment:
 Linux/macOS/Windows:
-```bash
+``` bash
 poetry shell
 ```
 
